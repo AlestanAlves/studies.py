@@ -1,2 +1,2 @@
-# studies.py
+# Studies.py
 Python studies to evolve
